@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jpcc-group/static/css/main.e7264cad.css",
+    "main.js": "/jpcc-group/static/js/main.b68aa0d1.js",
+    "static/js/453.2db0b49d.chunk.js": "/jpcc-group/static/js/453.2db0b49d.chunk.js",
+    "index.html": "/jpcc-group/index.html",
+    "main.e7264cad.css.map": "/jpcc-group/static/css/main.e7264cad.css.map",
+    "main.b68aa0d1.js.map": "/jpcc-group/static/js/main.b68aa0d1.js.map",
+    "453.2db0b49d.chunk.js.map": "/jpcc-group/static/js/453.2db0b49d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7264cad.css",
+    "static/js/main.b68aa0d1.js"
+  ]
+}
